@@ -1,2 +1,1 @@
-# robot-bottle-as-body
-A robot whose body is a bottle
+# REX - A robot whose body is a bottle
